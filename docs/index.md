@@ -29,16 +29,16 @@ hero:
       link: /column/Growing/
 # 按钮下方的描述
 features:
-  - icon: 👨
-    title: Web前端
-    details: CV工程师，国内某互联网工地搬砖。
+  - icon: 🔧
+    title: 前端主流框架
+    details: Vue、React、Angular。
     link: /column/views/guide
-  - icon: 🍜
-    title: 美食鉴赏
-    details: 吃货一枚，有梦吃遍大江南北。
-  - icon: 📿️
-    title: 佛系青年
-    details: 是个认真工作但是又很热爱生活的佛系青年。
+  - icon: 👷
+    title: 前端工程化
+    details: vite、webpack、rollup。
+  - icon: 💯
+    title: 前端性能优化
+    details: pwa、gzip、ssr、nuxt。
 ---
 <!-- 自定义组件 -->
 <script setup>
